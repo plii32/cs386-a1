@@ -5,7 +5,7 @@
 
 
 
-
+![pip image](https://pypi.org/static/images/logo-small.95de8436.svg)
 
 
 
