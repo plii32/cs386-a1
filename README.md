@@ -16,6 +16,6 @@
 **Manager: Jennie Butch**
 *Recorder: Elizabeth Knight*
 Developers:
-*Ceanna Jarrett 
-*Chase Babb
+* Ceanna Jarrett 
+* Chase Babb
 
