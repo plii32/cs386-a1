@@ -12,6 +12,6 @@
 
 
 
-
+**Manager: Jennie Butch**
 *Recorder: Elizabeth Knight*
-*Manager: Jennie Butch*
+
